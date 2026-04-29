@@ -84,13 +84,13 @@ const users = [
 1. Clone the repository:
 
 ```
-git clone <your-repo-url>
+git clone <https://github.com/guri5405/reactpropsrepractice>
 ```
 
 2. Navigate to the project folder:
 
 ```
-cd project-name
+cd 01practicemode
 ```
 
 3. Install dependencies:
