@@ -50,7 +50,7 @@ src/
 1. Clone the repository:
 
 ```
-git clone <>
+git clone <https://github.com/guri5405/reactpropsrepractice/tree/main/02practiceday2>
 ```
 
 2. Navigate to the project folder:
