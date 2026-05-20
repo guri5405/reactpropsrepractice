@@ -17,3 +17,15 @@ This project includes User Registration and Login functionality with clean UI fo
 - Beginner Friendly Project Structure
 
 ---
+
+# Tech Stack
+
+## Frontend
+- HTML5
+- Tailwind CSS
+
+## Backend
+- Node.js
+- Express.js
+
+---
