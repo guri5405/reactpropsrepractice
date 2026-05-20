@@ -83,7 +83,7 @@ POST /login
 ## Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/guri5405/reactpropsrepractice/05practiceday5auth.git
 ```
 
 ---
