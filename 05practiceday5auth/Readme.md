@@ -76,4 +76,39 @@ The login page allows users to log in using:
 ```bash
 POST /login
 ```
+---
+
+# Installation
+
+## Step 1: Clone Repository
+
+```bash
+git clone https://github.com/your-username/your-repository-name.git
+```
+
+---
+
+## Step 2: Move to Project Folder
+
+```bash
+cd your-project-folder
+```
+
+---
+
+## Step 3: Install Dependencies
+
+```bash
+npm install
+```
+
+---
+
+## Step 4: Start Server
+
+```bash
+node app.js
+```
+
+---
 
