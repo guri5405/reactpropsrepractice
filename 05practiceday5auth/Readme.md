@@ -111,4 +111,39 @@ node app.js
 ```
 
 ---
+# Tailwind CSS CDN
+
+This project uses Tailwind CSS through CDN.
+
+```html
+<script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+```
+
+---
+
+# Registration Form Example
+
+```html
+<form method="post" action="/create">
+  <input type="text" placeholder="Username" name="username">
+  <input type="email" placeholder="Email" name="email">
+  <input type="password" placeholder="Password" name="password">
+  <input type="number" placeholder="Age" name="age">
+
+  <input type="submit" value="Create User">
+</form>
+```
+
+---
+
+# Login Form Example
+
+```html
+<form method="post" action="/login">
+  <input type="email" placeholder="Email" name="email">
+  <input type="password" placeholder="Password" name="password">
+
+  <input type="submit" value="Login">
+</form>
+```
 
