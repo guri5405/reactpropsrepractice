@@ -29,3 +29,20 @@ This project includes User Registration and Login functionality with clean UI fo
 - Express.js
 
 ---
+
+# Project Structure
+
+```bash
+project-folder/
+│
+├── views/
+│   ├── register.ejs
+│   └── login.ejs
+│
+├── app.js
+├── package.json
+└── README.md
+```
+
+---
+
