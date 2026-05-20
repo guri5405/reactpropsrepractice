@@ -158,5 +158,34 @@ This project uses Tailwind CSS through CDN.
 - Flash Messages
 - Protected Routes
 - Logout Functionality
+---
+
+
+## Register Page
+- Dark Theme UI
+- Responsive Design
+- Tailwind Styled Inputs
+
+## Login Page
+- Simple Login Form
+- Clean User Interface
+
+---
+
+# Author
+
+Developed by Guree Sandhu
+---
+
+# License
+
+This project is licensed under the MIT License.
+
+---
+
+
+
+
+
 
 
