@@ -46,3 +46,21 @@ project-folder/
 
 ---
 
+
+# Registration Page
+
+The registration page allows users to create an account by entering:
+
+- Username
+- Email
+- Password
+- Age
+
+## Registration Route
+
+```bash
+POST /create
+```
+
+---
+
