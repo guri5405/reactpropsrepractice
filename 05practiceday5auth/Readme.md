@@ -64,3 +64,16 @@ POST /create
 
 ---
 
+# Login Page
+
+The login page allows users to log in using:
+
+- Email
+- Password
+
+## Login Route
+
+```bash
+POST /login
+```
+
