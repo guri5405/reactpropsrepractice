@@ -146,4 +146,17 @@ This project uses Tailwind CSS through CDN.
   <input type="submit" value="Login">
 </form>
 ```
+---
+
+# Future Improvements
+
+- Password Hashing using bcrypt
+- JWT Authentication
+- MongoDB Database Integration
+- Session Handling
+- Input Validation
+- Flash Messages
+- Protected Routes
+- Logout Functionality
+
 
