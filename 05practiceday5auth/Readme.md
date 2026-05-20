@@ -85,18 +85,9 @@ POST /login
 ```bash
 git clone https://github.com/guri5405/reactpropsrepractice/05practiceday5auth.git
 ```
-
 ---
 
-## Step 2: Move to Project Folder
-
-```bash
-cd your-project-folder
-```
-
----
-
-## Step 3: Install Dependencies
+## Step 2: Install Dependencies
 
 ```bash
 npm install
@@ -104,7 +95,7 @@ npm install
 
 ---
 
-## Step 4: Start Server
+## Step 3: Start Server
 
 ```bash
 node app.js
