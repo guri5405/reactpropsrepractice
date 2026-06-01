@@ -168,12 +168,6 @@ This project uses Tailwind CSS through CDN.
 Developed by Guree Sandhu
 ---
 
-# License
-
-This project is licensed under the MIT License.
-
----
-
 
 
 
